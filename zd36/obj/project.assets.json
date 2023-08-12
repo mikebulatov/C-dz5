@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mike/Рабочий стол/c#1/C-dz5/zd34/zd25.csproj",
+      "projectUniqueName": "/home/mike/Рабочий стол/c#1/C-dz5/zd36/zd25.csproj",
       "projectName": "zd25",
-      "projectPath": "/home/mike/Рабочий стол/c#1/C-dz5/zd34/zd25.csproj",
+      "projectPath": "/home/mike/Рабочий стол/c#1/C-dz5/zd36/zd25.csproj",
       "packagesPath": "/home/mike/.nuget/packages/",
-      "outputPath": "/home/mike/Рабочий стол/c#1/C-dz5/zd34/obj/",
+      "outputPath": "/home/mike/Рабочий стол/c#1/C-dz5/zd36/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mike/.nuget/NuGet/NuGet.Config"
