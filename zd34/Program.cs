@@ -1,7 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-bool Even(int num)
-{// фнукция определяет четное число или нет
+﻿bool Even(int num)
+{// фнукция определяет четное число или нет.
 if (num%2>0)return false;
 else return true;
 }
